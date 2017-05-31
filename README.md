@@ -3,6 +3,8 @@
 
 ### RiTa: the generative language toolkit
 
+[![Join the chat at https://gitter.im/dhowe/RiTa](https://badges.gitter.im/dhowe/RiTa.svg)](https://gitter.im/dhowe/RiTa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <a href="https://rednoise.org/rita/"><img height=80 src="https://rednoise.org/rita/img/RiTa-logo3.png"/></a>
 
 #### <a href="https://rednoise.org/rita">The RiTa website</a>
